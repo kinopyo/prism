@@ -2,7 +2,7 @@
 
 - [@Golmote](https://github.com/Golmote)
 - [@JaKXz](https://github.com/JaKXz) Jason Kurian
-- [@LeaVerou](https://github.com/LeaVerou) Lea Verou <lea@verou.me> (original author)
+- [@LeaVerou](https://github.com/LeaVerou) Lea Verou (original author)
 - [@mAAdhaTTah](https://github.com/mAAdhaTTah) James DiGioia <jamesorodig@gmail.com>
 - [@RunDevelopment](https://github.com/RunDevelopment) Michael Schmidt <msrd0000@gmail.com>
 
